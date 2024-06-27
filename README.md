@@ -1,2 +1,3 @@
 # Code-Forces-tasks
- Exercícios feitos por mim no Code Forces
+ Link do perfil: https://codeforces.com/profile/hyped7
+ Exercícios feitos por mim no Code Forces.
